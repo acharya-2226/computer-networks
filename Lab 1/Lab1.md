@@ -55,3 +55,15 @@
 5. Insert the wires into the RJ45 connectors, ensuring each wire goes into its respective slot.
 6. Use the crimping tool to secure the RJ45 connectors onto the cable.
 7. Test the cable using a cable tester to ensure proper connectivity.
+
+## Connection Testing Using Cable Tester
+1. Connect one end of the cable to the transmitter unit of the cable tester.
+2. Connect the other end of the cable to the receiver unit of the cable tester.
+3. Turn on the cable tester and observe the results.
+
+- For a straight-through cable, all pairs should show continuity in the same order. For a crossover cable, the transmit and receive pairs should be crossed.
+- Orders : 1-8 for straight-through and 1-3, 2-6, 3-1, 6-2 for crossover.
+
+## Results:
+- The cable tester should indicate that all wires are properly connected and there are no faults.
+- Visible Outputs are shown in images in the sub-folders straight and crossover.
