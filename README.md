@@ -13,3 +13,5 @@
 3. [Lab 3: Using Cisco Packet Tracer](Lab%203/lab3.md)
    - This lab focuses on using Cisco Packet Tracer for simulating network configurations and understanding networking concepts.
 
+4. [Lab 4: Subnetting and Supernetting](Lab%204/lab4.md)
+   - This lab covers the concepts of subnetting and supernetting, teaching how to divide and combine IP address spaces effectively.
