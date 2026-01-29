@@ -15,3 +15,6 @@
 
 4. [Lab 4: Subnetting and Supernetting](Lab%204/lab4.md)
    - This lab covers the concepts of subnetting and supernetting, teaching how to divide and combine IP address spaces effectively.
+
+5. [Lab 5: TBD](Lab%205/lab5.md)
+   - This lab 
