@@ -16,5 +16,15 @@
 4. [Lab 4: Subnetting and Supernetting](Lab%204/lab4.md)
    - This lab covers the concepts of subnetting and supernetting, teaching how to divide and combine IP address spaces effectively.
 
-5. [Lab 5: TBD](Lab%205/lab5.md)
-   - This lab 
+5. [Lab 5: Configuration of Static Routes and Default Routes](Lab%205/lab5.md)
+   - This lab focuses on configuring static routes and default routes in a network, explaining their purposes and how to implement them on network devices.
+
+6. [Lab 6 :Dynamic Routing Configurations : RIP, EIGRP, OSPF, BGP](Lab%206/lab6.md)
+   - This lab explores dynamic routing protocols such as RIP, EIGRP, OSPF, and BGP, providing configuration examples and use cases for each protocol.
+
+7. [Lab 7: TBD](Lab%207/lab7.md)
+   - This lab is currently under development and will cover additional networking topics in the future.
+
+8. [Lab 8: TBD](Lab%208/lab8.md)
+   - This lab is currently under development and will cover additional networking topics in the future.
+   
