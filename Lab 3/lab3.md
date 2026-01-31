@@ -116,11 +116,52 @@ Cisco Packet Tracer is a powerful network simulation tool developed by Cisco Sys
 
 
 ## Output
-- ![Router Simulation](router.png "Router Simulation") Fig : Router Simulation
-- ![Switch Simulation](switch.png "Switch Simulation") Fig : Switch Simulation
-- ![Hub Simulation](hub.png "Hub Simulation") Fig : Hub Simulation
-- ![Repeater Simulation](repeater.png "Repeater Simulation") Fig : Repeater Simulation
-- ![Bridge Simulation](bridge.png "Bridge Simulation") Fig : Bridge Simulation
+
+<!-- Format of Table 3*3
+ <table>
+   <tr>
+      <td align="center">
+         <img src="path/to/image" alt="Image Description" width="180" />
+         <br />Fig: Image Description
+      </td>
+      <td align="center">
+         <img src="path/to/image" alt="Image Description" width="180" />
+         <br />Fig: Image Description
+      </td>
+      <td align="center">
+         <img src="path/to/image" alt="Image Description" width="180" />
+         <br />Fig: Image Description
+   </tr>
+</table>
+ -->
+
+<table>
+   <tr>
+      <td align="center">
+         <img src="router.png" alt="Router Simulation" width="180" />
+         <br />Fig: Router Simulation
+      </td>
+      <td align="center">
+         <img src="switch.png" alt="Switch Simulation" width="180" />
+         <br />Fig: Switch Simulation
+      </td>
+      <td align="center">
+         <img src="hub.png" alt="Hub Simulation" width="180" />
+         <br />Fig: Hub Simulation
+      </td>
+   </tr>
+   <tr>
+      <td align="center">
+         <img src="repeater.png" alt="Repeater Simulation" width="180" />
+         <br />Fig: Repeater Simulation
+      </td>
+      <td align="center">
+         <img src="bridge.png" alt="Bridge Simulation" width="180" />
+         <br />Fig: Bridge Simulation
+      </td>
+      <td></td>
+   </tr>
+</table>
 
 ## Conclusion
 Cisco Packet Tracer is a powerful network simulation tool that allows users to create and test network configurations in a virtual environment. This lab provided hands-on experience in simulating various network devices, including hubs, switches, routers, repeaters, and bridges. Understanding how to configure and connect these devices is essential for network design and troubleshooting.

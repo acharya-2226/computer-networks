@@ -130,14 +130,45 @@
 - Successful ping responses indicate that the dynamic routing protocols are correctly configured, allowing communication between different networks.
 
 ## Output
-- ![RIP Configuration CLI](rip_ping.png "RIP Configuration CLI") 
-*Fig : Ping result using RIP*
-- ![EIGRP Configuration CLI](eigrp_ping.png "EIGRP Configuration CLI") 
-*Fig : Ping result using EIGRP*
-- ![OSPF Configuration CLI](ospf_ping.png "OSPF Configuration CLI") 
-*Fig : Ping result using OSPF*
-- ![BGP Configuration CLI](bgp_ping.png "BGP Configuration CLI") 
-*Fig : Ping result using BGP*
+<!-- Format of Table 2*2
+ <table>
+   <tr>
+      <td align="center">
+         <img src="path/to/image" alt="Image Description" width="180" />
+         <br />Fig: Image Description
+      </td>
+      <td align="center">
+         <img src="path/to/image" alt="Image Description" width="180" />
+         <br />Fig: Image Description
+      </td>
+      <td align="center">
+         <img src="path/to/image" alt="Image Description" width="180" />
+         <br />Fig: Image Description
+   </tr>
+</table>
+ -->
+<table>
+   <tr>
+      <td align="center">
+         <img src="rip_ping.png" alt="RIP Configuration CLI" width="180" />
+         <br />Fig: Ping result using RIP
+      </td>
+      <td align="center">
+         <img src="eigrp_ping.png" alt="EIGRP Configuration CLI" width="180" />
+         <br />Fig: Ping result using EIGRP
+      </td>
+   </tr>
+   <tr>
+      <td align="center">
+         <img src="ospf_ping.png" alt="OSPF Configuration CLI" width="180" />
+         <br />Fig: Ping result using OSPF
+      </td>
+      <td align="center">
+         <img src="bgp_ping.png" alt="BGP Configuration CLI" width="180" />
+         <br />Fig: Ping result using BGP
+      </td>
+   </tr>
+</table>
 
 ## Conclusion
 - In this lab, we learned how to configure dynamic routing protocols (RIP, EIGRP, OSPF, BGP) on network devices using CLI. We understood the importance of dynamic routing for efficient and adaptive network communication. Proper configuration of these protocols is essential for maintaining optimal routing paths in complex networks.
