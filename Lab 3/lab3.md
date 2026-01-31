@@ -2,7 +2,7 @@
 
 ## Objective
 
-Simulation using Hub, Switch, Router, Repeater, and Gateway in Cisco Packet Tracer. 
+Simulation using Hub, Switch, Router, Repeater, and Bridge in Cisco Packet Tracer. 
 
 ## Theory
 
@@ -19,7 +19,7 @@ Cisco Packet Tracer is a powerful network simulation tool developed by Cisco Sys
 
 4. **Repeater**: A network device that regenerates and amplifies signals to extend the distance over which data can travel in a network. It operates at the physical layer (Layer 1) of the OSI model.
 
-5. **Gateway**: A network device that acts as a bridge between different networks, often translating between different protocols. It operates at various layers of the OSI model, depending on its function.
+5. **Bridge**: A device that connects two or more network segments, improving traffic management by filtering data based on MAC addresses. It operates at the data link layer (Layer 2) of the OSI model.
 
 ## Lab Tasks
 
@@ -99,21 +99,28 @@ Cisco Packet Tracer is a powerful network simulation tool developed by Cisco Sys
 
 
 
-### Task 5: Simulation of Gateway
+### Task 5: Simulation of Bridge
 
-**Objective:** Demonstrate protocol translation and network bridging between different network architectures.
+**Objective:** Demonstrate the functionality of a bridge in connecting two different network types.
 
 **Configuration:**
-- Network 1: IPv4 network (192.168.1.0/24) with 2 PCs
-- Gateway Device: Protocol translation and routing
-- Network 2: Different protocol/architecture network with 2 PCs
+- Network 1: IPv4 network (192.168.1.0/24) with 2-3 PCs
+- Bridge Device: Protocol translation and routing
+- Network 2: Different protocol/architecture network with 2-3 PCs
 
 **Key Points:**
-- Gateways operate at multiple layers (Application, Transport, Network)
+- Bridges operate at the Data Link layer (Layer 2) and Network layer (Layer 3)
 - They perform protocol translation between different network types
 - Can bridge incompatible network architectures
 - Essential for communication between heterogeneous networks
 
 
+## Output
+- ![Router Simulation](router.png "Router Simulation") Fig : Router Simulation
+- ![Switch Simulation](switch.png "Switch Simulation") Fig : Switch Simulation
+- ![Hub Simulation](hub.png "Hub Simulation") Fig : Hub Simulation
+- ![Repeater Simulation](repeater.png "Repeater Simulation") Fig : Repeater Simulation
+- ![Bridge Simulation](bridge.png "Bridge Simulation") Fig : Bridge Simulation
+
 ## Conclusion
-Cisco Packet Tracer is a powerful network simulation tool that allows users to create and test network configurations in a virtual environment. This lab provided hands-on experience in simulating various network devices, including hubs, switches, routers, repeaters, and gateways. Understanding how to configure and connect these devices is essential for network design and troubleshooting.
+Cisco Packet Tracer is a powerful network simulation tool that allows users to create and test network configurations in a virtual environment. This lab provided hands-on experience in simulating various network devices, including hubs, switches, routers, repeaters, and bridges. Understanding how to configure and connect these devices is essential for network design and troubleshooting.

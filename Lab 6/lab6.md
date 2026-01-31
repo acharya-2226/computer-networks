@@ -130,11 +130,14 @@
 - Successful ping responses indicate that the dynamic routing protocols are correctly configured, allowing communication between different networks.
 
 ## Output
-- ![RIP Configuration CLI](rip_ping.png "RIP Configuration CLI")
-- ![EIGRP Configuration CLI](eigrp_ping.png "EIGRP Configuration CLI")
-- ![OSPF Configuration CLI](ospf_ping.png "OSPF Configuration CLI")
-- ![BGP Configuration CLI](bgp_ping.png "BGP Configuration CLI")
-
+- ![RIP Configuration CLI](rip_ping.png "RIP Configuration CLI") 
+*Fig : Ping result using RIP*
+- ![EIGRP Configuration CLI](eigrp_ping.png "EIGRP Configuration CLI") 
+*Fig : Ping result using EIGRP*
+- ![OSPF Configuration CLI](ospf_ping.png "OSPF Configuration CLI") 
+*Fig : Ping result using OSPF*
+- ![BGP Configuration CLI](bgp_ping.png "BGP Configuration CLI") 
+*Fig : Ping result using BGP*
 
 ## Conclusion
 - In this lab, we learned how to configure dynamic routing protocols (RIP, EIGRP, OSPF, BGP) on network devices using CLI. We understood the importance of dynamic routing for efficient and adaptive network communication. Proper configuration of these protocols is essential for maintaining optimal routing paths in complex networks.
