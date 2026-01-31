@@ -66,62 +66,96 @@
 
 ## Output
 
-<!-- Uniform small image size for all outputs -->
-
 ### Straight-through Cable Test Results:
-<img src="straight/st_1.jpg" alt="Network Cable Tester : 1-1 (Straight Through)" width="300" />
-Fig: Network Cable Tester : 1-1 (Straight Through)
+<table>
+   <tr>
+      <td align="center">
+         <img src="straight/st_1.jpg" alt="Network Cable Tester : 1-1 (Straight Through)" width="180" />
+         <br />Fig: Network Cable Tester : 1-1 (Straight Through)
+      </td>
+      <td align="center">
+         <img src="straight/st_2.jpg" alt="Network Cable Tester : 2-2 (Straight Through)" width="180" />
+         <br />Fig: Network Cable Tester : 2-2 (Straight Through)
+      </td>
+      <td align="center">
+         <img src="straight/st_3.jpg" alt="Network Cable Tester : 3-3 (Straight Through)" width="180" />
+         <br />Fig: Network Cable Tester : 3-3 (Straight Through)
+      </td>
+   </tr>
+   <tr>
+      <td align="center">
+         <img src="straight/st_4.jpg" alt="Network Cable Tester : 4-4 (Straight Through)" width="180" />
+         <br />Fig: Network Cable Tester : 4-4 (Straight Through)
+      </td>
+      <td align="center">
+         <img src="straight/st_5.jpg" alt="Network Cable Tester : 5-5 (Straight Through)" width="180" />
+         <br />Fig: Network Cable Tester : 5-5 (Straight Through)
+      </td>
+      <td align="center">
+         <img src="straight/st_6.jpg" alt="Network Cable Tester : 6-6 (Straight Through)" width="180" />
+         <br />Fig: Network Cable Tester : 6-6 (Straight Through)
+      </td>
+   </tr>
+   <tr>
+      <td align="center">
+         <img src="straight/st_7.jpg" alt="Network Cable Tester : 7-7 (Straight Through)" width="180" />
+         <br />Fig: Network Cable Tester : 7-7 (Straight Through)
+      </td>
+      <td align="center">
+         <img src="straight/st_8.jpg" alt="Network Cable Tester : 8-8 (Straight Through)" width="180" />
+         <br />Fig: Network Cable Tester : 8-8 (Straight Through)
+      </td>
+      <td></td>
+   </tr>
+</table>
 
-<img src="straight/st_2.jpg" alt="Network Cable Tester : 2-2 (Straight Through)" width="300" />
-Fig: Network Cable Tester : 2-2 (Straight Through)
-
-<img src="straight/st_3.jpg" alt="Network Cable Tester : 3-3 (Straight Through)" width="300" />
-Fig: Network Cable Tester : 3-3 (Straight Through)
-
-<img src="straight/st_4.jpg" alt="Network Cable Tester : 4-4 (Straight Through)" width="300" />
-Fig: Network Cable Tester : 4-4 (Straight Through)
-
-<img src="straight/st_5.jpg" alt="Network Cable Tester : 5-5 (Straight Through)" width="300" />
-Fig: Network Cable Tester : 5-5 (Straight Through)
-
-<img src="straight/st_6.jpg" alt="Network Cable Tester : 6-6 (Straight Through)" width="300" />
-Fig: Network Cable Tester : 6-6 (Straight Through)
-
-<img src="straight/st_7.jpg" alt="Network Cable Tester : 7-7 (Straight Through)" width="300" />
-Fig: Network Cable Tester : 7-7 (Straight Through)
-
-<img src="straight/st_8.jpg" alt="Network Cable Tester : 8-8 (Straight Through)" width="300" />
-Fig: Network Cable Tester : 8-8 (Straight Through)
-
-<img src="straight/1.jpg" alt="RJ45 Connectors on Straight-through Cable" width="300" />
+<img src="straight/1.jpg" alt="RJ45 Connectors on Straight-through Cable" width="180" />
 Fig: RJ45 Connectors on Straight-through Cable
 
 ### Crossover Cable Test Results:
-<img src="crossover/co_1.jpg" alt="Network Cable Tester : 1-3 (Crossover)" width="300" />
-Fig: Network Cable Tester : 1-3 (Crossover)
+<table>
+   <tr>
+      <td align="center">
+         <img src="crossover/co_1.jpg" alt="Network Cable Tester : 1-3 (Crossover)" width="180" />
+         <br />Fig: Network Cable Tester : 1-3 (Crossover)
+      </td>
+      <td align="center">
+         <img src="crossover/co_2.jpg" alt="Network Cable Tester : 2-6 (Crossover)" width="180" />
+         <br />Fig: Network Cable Tester : 2-6 (Crossover)
+      </td>
+      <td align="center">
+         <img src="crossover/co_3.jpg" alt="Network Cable Tester : 3-1 (Crossover)" width="180" />
+         <br />Fig: Network Cable Tester : 3-1 (Crossover)
+      </td>
+   </tr>
+   <tr>
+      <td align="center">
+         <img src="crossover/co_4.jpg" alt="Network Cable Tester : 4-4 (Crossover)" width="180" />
+         <br />Fig: Network Cable Tester : 4-4 (Crossover)
+      </td>
+      <td align="center">
+         <img src="crossover/co_5.jpg" alt="Network Cable Tester : 5-5 (Crossover)" width="180" />
+         <br />Fig: Network Cable Tester : 5-5 (Crossover)
+      </td>
+      <td align="center">
+         <img src="crossover/co_6.jpg" alt="Network Cable Tester : 6-2 (Crossover)" width="180" />
+         <br />Fig: Network Cable Tester : 6-2 (Crossover)
+      </td>
+   </tr>
+   <tr>
+      <td align="center">
+         <img src="crossover/co_7.jpg" alt="Network Cable Tester : 7-7 (Crossover)" width="180" />
+         <br />Fig: Network Cable Tester : 7-7 (Crossover)
+      </td>
+      <td align="center">
+         <img src="crossover/co_8.jpg" alt="Network Cable Tester : 8-8 (Crossover)" width="180" />
+         <br />Fig: Network Cable Tester : 8-8 (Crossover)
+      </td>
+      <td></td>
+   </tr>
+</table>
 
-<img src="crossover/co_2.jpg" alt="Network Cable Tester : 2-6 (Crossover)" width="300" />
-Fig: Network Cable Tester : 2-6 (Crossover)
-
-<img src="crossover/co_3.jpg" alt="Network Cable Tester : 3-1 (Crossover)" width="300" />
-Fig: Network Cable Tester : 3-1 (Crossover)
-
-<img src="crossover/co_4.jpg" alt="Network Cable Tester : 4-4 (Crossover)" width="300" />
-Fig: Network Cable Tester : 4-4 (Crossover)
-
-<img src="crossover/co_5.jpg" alt="Network Cable Tester : 5-5 (Crossover)" width="300" />
-Fig: Network Cable Tester : 5-5 (Crossover)
-
-<img src="crossover/co_6.jpg" alt="Network Cable Tester : 6-2 (Crossover)" width="300" />
-Fig: Network Cable Tester : 6-2 (Crossover)
-
-<img src="crossover/co_7.jpg" alt="Network Cable Tester : 7-7 (Crossover)" width="300" />
-Fig: Network Cable Tester : 7-7 (Crossover)
-
-<img src="crossover/co_8.jpg" alt="Network Cable Tester : 8-8 (Crossover)" width="300" />
-Fig: Network Cable Tester : 8-8 (Crossover)
-
-<img src="crossover/rj45_co.jpg" alt="RJ45 Connectors on Crossover Cable" width="300" />
+<img src="crossover/1.jpg" alt="RJ45 Connectors on Crossover Cable" width="180" />
 Fig: RJ45 Connectors on Crossover Cable
 
 
