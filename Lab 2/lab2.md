@@ -72,30 +72,47 @@ To familiarize with essential network commands used for testing and troubleshoot
 3. Usage of the commands are shown in the output files.
 
 ## Output:
+<!-- Format of Table 3*3
+ <table>
+   <tr>
+      <td align="center">
+         <img src="path/to/image" alt="Image Description" width="180" />
+         <br />Fig: Image Description
+      </td>
+      <td align="center">
+         <img src="path/to/image" alt="Image Description" width="180" />
+         <br />Fig: Image Description
+      </td>
+      <td align="center">
+         <img src="path/to/image" alt="Image Description" width="180" />
+         <br />Fig: Image Description
+   </tr>
+</table>
+ -->
 
-- ![GETMAC Command Output](output/getmac.png "GETMAC Command Output") Fig : GETMAC Command Output
+- ![GETMAC Command Output](outputs/getmac.png "GETMAC Command Output") Fig : GETMAC Command Output
 
-- ![IPCONFIG Command Output](output/ipconfig.png "IPCONFIG Command Output") Fig : IPCONFIG Command Output
+- ![IPCONFIG Command Output](outputs/ipconfig.png "IPCONFIG Command Output") Fig : IPCONFIG Command Output
 
-- ![NETSH Command Output](output/netsh.png "NETSH Command Output") Fig : NETSH Command Output
+- ![NETSH Command Output](outputs/netsh.png "NETSH Command Output") Fig : NETSH Command Output
 
-- ![NETSTAT -A Command Output](output/netstat-a.png "NETSTAT -A Command Output") Fig : NETSTAT -A Command Output
+- ![NETSTAT -A Command Output](outputs/netstat-a.png "NETSTAT -A Command Output") Fig : NETSTAT -A Command Output
 
-- ![NETSTAT -N Command Output](output/netstat-n.png "NETSTAT -N Command Output") Fig : NETSTAT -N Command Output
+- ![NETSTAT -N Command Output](outputs/netstat-n.png "NETSTAT -N Command Output") Fig : NETSTAT -N Command Output
 
-- ![NSLOOKUP Command Output](output/nslookup.png "NSLOOKUP Command Output") Fig : NSLOOKUP Command Output
+- ![NSLOOKUP Command Output](outputs/nslookup.png "NSLOOKUP Command Output") Fig : NSLOOKUP Command Output
 
-- ![PATHPING Command Output](output/pathping.png "PATHPING Command Output") Fig : PATHPING Command Output
+- ![PATHPING Command Output](outputs/pathping.png "PATHPING Command Output") Fig : PATHPING Command Output
 
-- ![PING Command Output](output/ping.png "PING Command Output") Fig : PING Command Output
+- ![PING Command Output](outputs/ping.png "PING Command Output") Fig : PING Command Output
 
-- ![ROUTE PRINT Command Output](output/routeprint.png "ROUTE PRINT Command Output") Fig : ROUTE PRINT Command Output
+- ![ROUTE PRINT Command Output](outputs/routeprint.png "ROUTE PRINT Command Output") Fig : ROUTE PRINT Command Output
 
-- ![TELNET Command Output](output/telnet.png "TELNET Command Output") Fig : TELNET Command Output
+- ![TELNET Command Output](outputs/telnet.png "TELNET Command Output") Fig : TELNET Command Output
 
-- ![TRACERT Command Output](output/tracert.png "TRACERT Command Output") Fig : TRACERT Command Output
+- ![TRACERT Command Output](outputs/tracert.png "TRACERT Command Output") Fig : TRACERT Command Output
 
-- ![UNRECOGNIZED Command Output](output/unrecognized.png "UNRECOGNIZED Command Output") Fig : UNRECOGNIZED Command Output
+- ![UNRECOGNIZED Command Output](outputs/unrecognized.png "UNRECOGNIZED Command Output") Fig : UNRECOGNIZED Command Output
 
 
 ## Conclusion:
