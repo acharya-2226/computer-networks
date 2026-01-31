@@ -105,12 +105,14 @@
          <img src="straight/st_8.jpg" alt="Network Cable Tester : 8-8 (Straight Through)" width="180" />
          <br />Fig: Network Cable Tester : 8-8 (Straight Through)
       </td>
-      <td></td>
+      <td align="center">
+      
+         <img src="straight/1.jpg" alt="RJ45 Connectors on Straight-through Cable" width="180" />
+         <br />Fig: RJ45 Connectors on Straight-through Cable
+      </td>
    </tr>
 </table>
 
-<img src="straight/1.jpg" alt="RJ45 Connectors on Straight-through Cable" width="180" />
-Fig: RJ45 Connectors on Straight-through Cable
 
 ### Crossover Cable Test Results:
 <table>
@@ -151,12 +153,14 @@ Fig: RJ45 Connectors on Straight-through Cable
          <img src="crossover/co_8.jpg" alt="Network Cable Tester : 8-8 (Crossover)" width="180" />
          <br />Fig: Network Cable Tester : 8-8 (Crossover)
       </td>
-      <td></td>
+      <td align="center">
+<img src="crossover/1.jpg" alt="RJ45 Connectors on Crossover Cable" width="180" />
+<br />Fig: RJ45 Connectors on Crossover Cable
+
+      </td>
    </tr>
 </table>
 
-<img src="crossover/1.jpg" alt="RJ45 Connectors on Crossover Cable" width="180" />
-Fig: RJ45 Connectors on Crossover Cable
 
 
 
