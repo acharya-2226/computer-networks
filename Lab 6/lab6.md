@@ -134,37 +134,41 @@
  <table>
    <tr>
       <td align="center">
-         <img src="path/to/image" alt="Image Description" width="180" />
+         <img src="path/to/image" alt="Image Description" width="400" />
          <br />Fig: Image Description
       </td>
       <td align="center">
-         <img src="path/to/image" alt="Image Description" width="180" />
+         <img src="path/to/image" alt="Image Description" width="400" />
          <br />Fig: Image Description
       </td>
       <td align="center">
-         <img src="path/to/image" alt="Image Description" width="180" />
+         <img src="path/to/image" alt="Image Description" width="400" />
          <br />Fig: Image Description
    </tr>
+      <td align="center">
+         <img src="path/to/image" alt="Image Description" width="400" />
+         <br />Fig: Image Description
+      </td>
 </table>
  -->
 <table>
    <tr>
       <td align="center">
-         <img src="rip_ping.png" alt="RIP Configuration CLI" width="180" />
+         <img src="rip_ping.png" alt="RIP Configuration CLI" width="400" />
          <br />Fig: Ping result using RIP
       </td>
       <td align="center">
-         <img src="eigrp_ping.png" alt="EIGRP Configuration CLI" width="180" />
+         <img src="eigrp_ping.png" alt="EIGRP Configuration CLI" width="400" />
          <br />Fig: Ping result using EIGRP
       </td>
    </tr>
    <tr>
       <td align="center">
-         <img src="ospf_ping.png" alt="OSPF Configuration CLI" width="180" />
+         <img src="ospf_ping.png" alt="OSPF Configuration CLI" width="400" />
          <br />Fig: Ping result using OSPF
       </td>
       <td align="center">
-         <img src="bgp_ping.png" alt="BGP Configuration CLI" width="180" />
+         <img src="bgp_ping.png" alt="BGP Configuration CLI" width="400" />
          <br />Fig: Ping result using BGP
       </td>
    </tr>
