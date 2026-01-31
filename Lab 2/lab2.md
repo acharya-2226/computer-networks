@@ -76,7 +76,7 @@ To familiarize with essential network commands used for testing and troubleshoot
 <table>
    <tr>
       <td align="center">
-         <img src="outputs/getmac.png" alt="GETMAC Command Output" width="220" />
+         <img src="lab 2/outputs/getmac.png" alt="GETMAC Command Output" width="220" />
          <br />Fig: GETMAC Command Output
       </td>
       <td align="center">
