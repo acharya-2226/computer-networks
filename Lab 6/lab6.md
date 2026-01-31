@@ -149,7 +149,7 @@
       </td>
       <td align="center">
          <img src="bgp_ping.png" alt="BGP Configuration CLI" width="800" />
-         <br />Fig: Ping result using BGP
+         <br />Fig: Ping result using BGP 
       </td>
    </tr>
 </table>

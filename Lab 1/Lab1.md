@@ -159,23 +159,6 @@
    </tr>
 </table>
 
-<!-- Format of Table 3*3
- <table>
-   <tr>
-      <td align="center">
-         <img src="path/to/image" alt="Image Description" width="180" />
-         <br />Fig: Image Description
-      </td>
-      <td align="center">
-         <img src="path/to/image" alt="Image Description" width="180" />
-         <br />Fig: Image Description
-      </td>
-      <td align="center">
-         <img src="path/to/image" alt="Image Description" width="180" />
-         <br />Fig: Image Description
-   </tr>
-</table>
- -->
 
 
 

@@ -73,7 +73,7 @@ To familiarize with essential network commands used for testing and troubleshoot
 
 ## Output:
 
-<table><!-- Format of Table 2*6 with max width possible -->
+<table>
 
    <tr>
       <td align="center">
