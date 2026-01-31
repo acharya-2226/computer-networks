@@ -72,11 +72,18 @@
 - Successful ping responses indicate that the static routes and default routes are correctly configured, allowing communication between different networks.
 
 ## Output
-![Static Route Configuration CLI](static_ping.png "Static Route Configuration CLI") 
-<br />Fig : Ping result using Static Route
-
-- ![Default Route Configuration CLI](default_ping.png "Default Route Configuration CLI") 
-<br />Fig : Ping result using Default Route
+<table>
+   <tr>
+      <td align="center">
+         <img src="static_ping.png" alt="Static Route Configuration CLI" width="800" />
+         <br />Fig : Ping result using Static Route
+      </td>
+      <td align="center">
+         <img src="default_ping.png" alt="Default Route Configuration CLI" width="800" />
+         <br />Fig : Ping result using Default Route
+      </td>
+   </tr>
+</table>
 
 ## Conclusion
 - In this lab, we learned how to configure static routes and default routes on network devices using CLI. We understood the importance of static routing for specific network paths and default routing for handling unknown destinations. Proper configuration of these routes is essential for efficient network communication and management.

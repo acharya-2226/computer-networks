@@ -117,24 +117,6 @@ Cisco Packet Tracer is a powerful network simulation tool developed by Cisco Sys
 
 ## Output
 
-<!-- Format of Table 3*3
- <table>
-   <tr>
-      <td align="center">
-         <img src="path/to/image" alt="Image Description" width="180" />
-         <br />Fig: Image Description
-      </td>
-      <td align="center">
-         <img src="path/to/image" alt="Image Description" width="180" />
-         <br />Fig: Image Description
-      </td>
-      <td align="center">
-         <img src="path/to/image" alt="Image Description" width="180" />
-         <br />Fig: Image Description
-   </tr>
-</table>
- -->
-
 <table>
    <tr>
       <td align="center">

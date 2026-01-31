@@ -76,57 +76,57 @@ To familiarize with essential network commands used for testing and troubleshoot
 <table>
    <tr>
       <td align="center">
-         <img src="outputs/getmac.png" alt="GETMAC Command Output" width="180" />
+         <img src="outputs/getmac.png" alt="GETMAC Command Output" width="220" />
          <br />Fig: GETMAC Command Output
       </td>
       <td align="center">
-         <img src="outputs/ipconfig.png" alt="IPCONFIG Command Output" width="180" />
+         <img src="outputs/ipconfig.png" alt="IPCONFIG Command Output" width="220" />
          <br />Fig: IPCONFIG Command Output
       </td>
       <td align="center">
-         <img src="outputs/netsh.png" alt="NETSH Command Output" width="180" />
+         <img src="outputs/netsh.png" alt="NETSH Command Output" width="220" />
          <br />Fig: NETSH Command Output
       </td>
    </tr>
    <tr>
       <td align="center">
-         <img src="outputs/netstat-a.png" alt="NETSTAT -A Command Output" width="180" />
+         <img src="outputs/netstat-a.png" alt="NETSTAT -A Command Output" width="220" />
          <br />Fig: NETSTAT -A Command Output
       </td>
       <td align="center">
-         <img src="outputs/netstat-n.png" alt="NETSTAT -N Command Output" width="180" />
+         <img src="outputs/netstat-n.png" alt="NETSTAT -N Command Output" width="220" />
          <br />Fig: NETSTAT -N Command Output
       </td>
       <td align="center">
-         <img src="outputs/nslookup.png" alt="NSLOOKUP Command Output" width="180" />
+         <img src="outputs/nslookup.png" alt="NSLOOKUP Command Output" width="220" />
          <br />Fig: NSLOOKUP Command Output
       </td>
    </tr>
    <tr>
       <td align="center">
-         <img src="outputs/pathping.png" alt="PATHPING Command Output" width="180" />
+         <img src="outputs/pathping.png" alt="PATHPING Command Output" width="220" />
          <br />Fig: PATHPING Command Output
       </td>
       <td align="center">
-         <img src="outputs/ping.png" alt="PING Command Output" width="180" />
+         <img src="outputs/ping.png" alt="PING Command Output" width="220" />
          <br />Fig: PING Command Output
       </td>
       <td align="center">
-         <img src="outputs/routeprint.png" alt="ROUTE PRINT Command Output" width="180" />
+         <img src="outputs/route print.png" alt="ROUTE PRINT Command Output" width="220" />
          <br />Fig: ROUTE PRINT Command Output
       </td>
    </tr>
    <tr>
       <td align="center">
-         <img src="outputs/telnet.png" alt="TELNET Command Output" width="180" />
+         <img src="outputs/telnet.png" alt="TELNET Command Output" width="220" />
          <br />Fig: TELNET Command Output
       </td>
       <td align="center">
-         <img src="outputs/tracert.png" alt="TRACERT Command Output" width="180" />
+         <img src="outputs/tracert.png" alt="TRACERT Command Output" width="220" />
          <br />Fig: TRACERT Command Output
       </td>
       <td align="center">
-         <img src="outputs/unrecognized.png" alt="UNRECOGNIZED Command Output" width="180" />
+         <img src="outputs/unrecognized.png" alt="UNRECOGNIZED Command Output" width="220" />
          <br />Fig: UNRECOGNIZED Command Output
       </td>
    </tr>
