@@ -120,25 +120,25 @@ Cisco Packet Tracer is a powerful network simulation tool developed by Cisco Sys
 <table>
    <tr>
       <td align="center">
-         <img src="router.png" alt="Router Simulation" width="180" />
+         <img src="router.png" alt="Router Simulation" width="500" />
          <br />Fig: Router Simulation
       </td>
       <td align="center">
-         <img src="switch.png" alt="Switch Simulation" width="180" />
+         <img src="Switch.png" alt="Switch Simulation" width="500" />
          <br />Fig: Switch Simulation
       </td>
       <td align="center">
-         <img src="hub.png" alt="Hub Simulation" width="180" />
+         <img src="Hub.png" alt="Hub Simulation" width="500" />
          <br />Fig: Hub Simulation
       </td>
    </tr>
    <tr>
       <td align="center">
-         <img src="repeater.png" alt="Repeater Simulation" width="180" />
+         <img src="repeater.png" alt="Repeater Simulation" width="500" />
          <br />Fig: Repeater Simulation
       </td>
       <td align="center">
-         <img src="bridge.png" alt="Bridge Simulation" width="180" />
+         <img src="Bridge.png" alt="Bridge Simulation" width="500" />
          <br />Fig: Bridge Simulation
       </td>
       <td></td>
