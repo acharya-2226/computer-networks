@@ -22,9 +22,14 @@
 6. [Lab 6 :Dynamic Routing Configurations : RIP, EIGRP, OSPF, BGP](Lab%206/lab6.md)
    - This lab explores dynamic routing protocols such as RIP, EIGRP, OSPF, and BGP, providing configuration examples and use cases for each protocol.
 
-7. [Lab 7: TBD](Lab%207/lab7.md)
-   - This lab is currently under development and will cover additional networking topics in the future.
+7. [Lab 7: Configuration of Switch, VLAN Configuration and Inter-VLAN Routing](Lab%207/lab7.md)
+   - This lab covers VLAN creation, port assignment, trunk configuration, and inter-VLAN routing using router sub-interfaces.
 
-8. [Lab 8: TBD](Lab%208/lab8.md)
-   - This lab is currently under development and will cover additional networking topics in the future.
-   
+8. [Lab 8: Server Configuration - DHCP, DNS and Web Server in Cisco Packet Tracer](Lab%208/lab8.md)
+   - This lab demonstrates server-side configuration of DHCP, DNS, and HTTP services, and verifies client access using automatic addressing and domain-name resolution.
+
+9. [Lab 9: Wireless Network Setup and Packet Analysis using Cisco Packet Tracer](Lab%209/lab9.md)
+   - This lab covers wireless router configuration, secure WLAN setup using WPA2, DHCP-based client addressing, and packet analysis in simulation mode.
+
+10. [Final Project :Design a network with 3 routers using RIP. Configure VLANs and trunking. Setup DHCP for all VLANs. Add a DNS server with mulple host entries. Configure default routes. Use superneng to summarize networks at the core router.](Final%20Project/report.md)
+   - This final project integrates multiple concepts learned in previous labs, requiring the design and configuration of a complex network with routers, VLANs, DHCP, DNS, and routing protocols.
